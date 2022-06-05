@@ -1,0 +1,51 @@
+Adzuki
+Cocoa
+Coffee C
+Corn
+Cotton No.2
+Frozen Concentrated Orange Juice
+Milk
+No 2. Soybean
+Oats
+Rapeseed
+Robusta coffee
+Rough Rice
+Soy Meal
+Soybean Meal
+Soybean Oil
+Soybeans
+Sugar No.11
+Sugar No.14
+Wheat
+Lean Hogs
+Live Cattle
+Feeder Cattle
+WTI Crude Oil
+Brent Crude
+Ethanol
+Natural gas
+Heating Oil
+Gulf Coast Gasoline
+RBOB Gasoline
+Propane
+Purified Terephthalic Acid (PTA)
+Random Length Lumber
+Hardwood Pulp
+Softwood Pulp
+LME Copper
+Lead
+Zinc
+Tin
+Aluminium
+Aluminium alloy
+LME Nickel
+Cobalt
+Molybdenum
+Gold
+Platinum
+Palladium
+Silver
+Palm Oil
+Rubber
+Wool
+Amber

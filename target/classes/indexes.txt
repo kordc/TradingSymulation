@@ -1,0 +1,54 @@
+S&P 500
+S&P 100
+.IDX
+.SML
+DJIA
+TRAN
+UTILITIES
+INTERNET
+NYSE
+.XAX
+NYSEPHARMA
+NASDAQ
+NASD 100
+RUSS 1K
+RUSS 2K
+RUSS 3K
+WIG
+WIG30
+CAC 40
+CAC Next 20
+CAC Large 60
+CAC Mid 60
+CAC Small
+SBF 120
+CAC Mid & Small
+CAC All-Tradable
+CAC All Share
+VN Index
+CBV Index
+S&P Vietnam 10 Index
+KSE 100 Index
+KSE All Share Index
+KSE-30 Index
+KMI 30 Index
+BSE SENSEX
+NSE NIFTY 50
+NIFTY BANK
+S&P BSE 500
+NIFTY MIDCAP 100
+NIFTY SMALLCAP 100
+NIFTY Next 50
+NIFTY METAL
+Hang Seng Index
+Hang Seng China Enterprises Index
+Hang Seng China H-Financials Index
+Hang Seng China-Affiliated Corporations Index
+MSCI Hong Kong Index
+CSE 30
+CSC X
+CASPI
+CSI
+CSE50
+DSEX
+DSE
